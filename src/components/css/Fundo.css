@@ -1,0 +1,18 @@
+#cor-de-fundo { 
+    background-color: #ffffff;
+    background-image: url("../imagens/fundo.svg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 830px;
+    width: 100%;
+}
+
+
+#gramado {
+    background-color: #80D02F;
+    height: 120px;
+    width: 100%;
+    bottom: 0;
+    z-index: 3;
+}

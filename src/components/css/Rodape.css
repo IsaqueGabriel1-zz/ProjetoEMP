@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+#roda{
+    height: 20px;
+    font-family: 'Paytone One', sans-serif;
+    font-size: 27px;
+    color:white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.445);
+}
+#contato {
+    font-family: 'Paytone One', sans-serif;
+    color: #ffffff;
+    bottom: 0;
+    font-size: 25px;
+}
+.btn{
+    margin-left: 5px;
+}
+button {
+    width: 40px;
+    background-color: transparent;
+}
+
+img {
+    width: 40px;
+}
